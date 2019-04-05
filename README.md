@@ -1,4 +1,4 @@
-# LPKF S103
+# Fiducial for LPKF S103
 This fiducial was designed for the Drilling and Milling machine of LPKF in combination with the manufacturing processes of our Laboratory.
 
 ##  Add Library to KiCad
